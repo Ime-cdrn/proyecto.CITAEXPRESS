@@ -97,8 +97,8 @@ El administrador puede ver la lista completa de reservas y aplicar acciones de g
 
 ## 👥 Autor o Integrantes
 integrantes :
-**Noemi Calderon** 
-**Anahi Araceli Apaza Ance** 
+- **Noemi Calderon** 
+- **Anahi Araceli Apaza Ance** 
 ## 🌐 Enlace del Despliegue 
 
 El proyecto se encuentra desplegado y accesible en el siguiente enlace:
