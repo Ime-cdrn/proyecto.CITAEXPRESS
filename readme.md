@@ -1,22 +1,70 @@
-# 📌 Sistema de Reservas
+# 🗓️ Sistema Web de Reserva de Citas
 
-## 🎯 Objetivo del Software
+## 📘 Descripción del Proyecto
+El **Sistema Web de Reserva de Citas** es una aplicación creada para **agilizar la gestión de citas** entre usuarios y una institución (por ejemplo, una clínica odontológica, consultorio médico o entidad pública).  
+Permite a los usuarios **registrarse, iniciar sesión y reservar citas** de forma sencilla desde cualquier dispositivo con conexión a Internet.
 
-El **Sistema de Reservas** es una plataforma web diseñada para simplificar y automatizar el proceso de agendamiento de citas y servicios. Su objetivo principal es ofrecer a los usuarios una herramienta **rápida y eficiente** para reservar, y proporcionar a los administradores un tablero completo para la gestión, seguimiento y confirmación de todos los registros.
-
-Este sistema busca mejorar la experiencia del cliente y optimizar las operaciones internas al ofrecer:
-* **Agendamiento Rápido:** Los usuarios pueden reservar un servicio en pocos pasos y recibir una confirmación inmediata por correo electrónico.
-* **Administración Centralizada:** Un panel de control intuitivo para gestionar el estado (Confirmado, Pendiente, Cancelado) de todas las reservas.
+Su propósito principal es **optimizar la atención al cliente**, evitando filas y esperas innecesarias, mediante un sistema digital que organiza el flujo de reservas y notificaciones automáticas por correo electrónico.
 
 ---
 
-## 🧠 Tecnologías Utilizadas
+## 🎯 Objetivos del Sistema
+- Facilitar la **reserva y administración de citas** en línea.  
+- Reducir tiempos de espera y mejorar la atención al usuario.  
+- Centralizar la gestión de usuarios, citas y notificaciones.  
+- Ofrecer una interfaz **moderna, intuitiva y adaptable**.  
 
-Este proyecto fue desarrollado utilizando un stack web que incluye las siguientes tecnologías clave:
+---
 
-* **Frontend:** HTML5, CSS3, y JavaScript (posiblemente un framework moderno como React, Vue.js o Angular).
-* **Backend:** Lenguaje de programación enfocado al manejo de la lógica de negocio (ej: PHP, Python/Django, o Node.js/Express).
-* **Base de Datos:** Utilizada para el almacenamiento persistente de los datos de usuarios, servicios y registros de reservas (ej: MySQL, PostgreSQL).
+## 👥 Tipos de Usuarios
+
+### 👩‍💼 Administrador
+- Accede al **panel de control administrativo**.  
+- Gestiona usuarios, citas y notificaciones.  
+- Visualiza reportes y estadísticas.  
+- Envía recordatorios y confirmaciones por correo electrónico.  
+
+### 👨‍🦱 Usuario o Cliente
+- Se **registra o inicia sesión** en el sistema.  
+- Solicita, consulta o cancela citas.  
+- Recibe notificaciones automáticas al correo.  
+
+---
+
+## ⚙️ Funcionalidades Principales
+✅ Registro e inicio de sesión de usuarios.  
+✅ Creación, modificación y eliminación de citas.  
+✅ Panel de control para administradores.  
+✅ Envío automático de notificaciones por correo (PHPMailer).  
+✅ Base de datos MySQL integrada.  
+✅ Diseño adaptable (responsive).  
+
+---
+
+## 🧩 Tecnologías Utilizadas
+- **Lenguajes:** PHP, HTML5, CSS3, JavaScript  
+- **Base de Datos:** MySQL  
+- **Servidor:** Apache (XAMPP o similar)  
+- **Correo Electrónico:** PHPMailer  
+
+---
+
+## 🚀 Funcionamiento General
+1. El usuario ingresa al sistema desde el navegador.  
+2. Se **registra o inicia sesión** con sus credenciales.  
+3. Elige la **fecha, hora y motivo de la cita**.  
+4. El administrador revisa y gestiona las solicitudes.  
+5. El sistema envía **confirmaciones o recordatorios por correo electrónico**.  
+6. Ambas partes pueden consultar o modificar citas fácilmente.  
+
+---
+
+## 💡 Beneficios del Sistema
+- Optimiza la atención al público.  
+- Elimina esperas y errores manuales.  
+- Aumenta la organización y productividad.  
+- Facilita la comunicación entre usuarios y administradores.  
+- Ahorra tiempo y recursos en la gestión de citas.  
 
 ---
 
@@ -48,8 +96,9 @@ El administrador puede ver la lista completa de reservas y aplicar acciones de g
 ---
 
 ## 👥 Autor o Integrantes
-integrantes :Noemi Calderon 
-Anahi Araceli Apaza Ance 
+integrantes :
+**Noemi Calderon** 
+**Anahi Araceli Apaza Ance** 
 ## 🌐 Enlace del Despliegue 
 
 El proyecto se encuentra desplegado y accesible en el siguiente enlace:
