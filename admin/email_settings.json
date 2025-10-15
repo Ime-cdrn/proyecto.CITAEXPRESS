@@ -1,0 +1,8 @@
+{
+    "SMTP_HOST": "smtp.gmail.com",
+    "SMTP_PORT": 587,
+    "SMTP_USERNAME": "aracelyapaza171@gmail.com",
+    "SMTP_PASSWORD": "uxuskamgbbyuzcww",
+    "SMTP_FROM_EMAIL": "aracelyapaza171@gmail.com",
+    "SMTP_FROM_NAME": "Sistema de Reservas"
+}
